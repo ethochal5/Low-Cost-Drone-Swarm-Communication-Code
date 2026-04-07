@@ -14,3 +14,6 @@ Real-World
 realmastertakeoffland.py realslavetakeoffland.py – Basic take off and land (no communication)\
 realmastergps.py realslavegps.py – Basic GPS position communication with data logging\
 realmasterorbit.py realslaveorbit.py – GPS position communication with automated take off and slave orbiting master moving upwards and downwards either clockwise or anticlockwise depending on which direction the master is moving
+
+
+An experimental setup guide is included as a PDF document: ExperimentalSetupDroneSwarmCommunciation&Management.pdf
