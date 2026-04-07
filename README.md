@@ -16,4 +16,5 @@ realmastergps.py realslavegps.py – Basic GPS position communication with data 
 realmasterorbit.py realslaveorbit.py – GPS position communication with automated take off and slave orbiting master moving upwards and downwards either clockwise or anticlockwise depending on which direction the master is moving
 
 
-An experimental setup guide is included as a PDF document: ExperimentalSetupDroneSwarmCommunciation&Management.pdf
+An experimental setup guide is included as a PDF document: ExperimentalSetupDroneSwarmCommunciation&Management.pdf \
+Data logs are provided for reference in the data logs folder
